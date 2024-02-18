@@ -22,7 +22,7 @@ const useStyles = makeStyles((theme) => ({
     justifyContent: "center",
     padding: theme.spacing(4),
     backgroundColor: "#fff",
-    marginTop: theme.spacing(1),
+   
     borderRadius: theme.spacing(2),
     border: "1px solid black",
     marginTop: theme.spacing(4),
