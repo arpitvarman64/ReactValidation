@@ -1,0 +1,7 @@
+.react-tel-input .form-control{
+    height:100% !important;
+    width:100% !important;
+}
+.MuiFormGroup-row {
+flex-direction: column !important;
+}
